@@ -9,7 +9,7 @@ public class Byte {
         System.out.println(A-B);
         System.out.println(A*B);
         System.out.println(A/B);
-        System.out.println("chintan");
+
 
 
 
