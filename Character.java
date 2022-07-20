@@ -10,6 +10,7 @@ public class Character {
 
         System.out.println("a ="+a);
         System.out.println("b ="+b);
+        System.out.println("chinta1");
 
     }
 }
